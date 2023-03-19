@@ -1,6 +1,6 @@
 # CUP_IT
-DB Brawlers CUP IT hackathon
+Репозиторий ноутбуков команды BD Brawlers для кейса на CUP IT
 
-Collab: https://colab.research.google.com/drive/1h486dPy1sf0pvYXCNM7C0jcs4hvUOysF?usp=sharing
-
-Miro: https://miro.com/welcome/bkw3TzloZXJHcHV2NGNmaHdvd29IYmY1bjV1aVc0YlpEOEk0bUd1VDh1OUZzVDVOZ3BjNVQ5TVRyMEVIcWxua3wzNDU4NzY0NTQ4NzE0OTEyMTkwfDQ=?share_link_id=517377993853
+Репозиторий содержит ноутбуки:
+* `EDA CUP_IT.ipynb`: визуальный анализ данных для нахождения зависимостей
+* `ML CUP_IT.ipynb`: ноутбук, посвященный изучению 4 различных моделей (SVC, LogisticRegression, XGBClassifier, DecisiontreeClassifier) и нахождению той, которая давала бы максимально возможно точный результат
